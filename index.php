@@ -1,3 +1,6 @@
+<?php
+    $nama = "Dian Pratama";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +9,6 @@
     <title>Test GitHub</title>
 </head>
 <body>
-    <?= "Hello GitHub"; ?>
+    <?= "Hello GitHub, Saya ".$nama; ?>
 </body>
 </html>
